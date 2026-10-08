@@ -1,0 +1,8 @@
+{
+  "name": "eduflow-v5",
+  "version": "5.0.0",
+  "private": true,
+  "description": "EduFlow - Smart Student Academic Management System",
+  "scripts": {"start": "node server.js"},
+  "engines": {"node": ">=18"}
+}
